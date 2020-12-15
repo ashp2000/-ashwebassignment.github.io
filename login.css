@@ -1,0 +1,57 @@
+#container{
+	height: 460px;
+	width: 400px;
+	background-color: #a6f6f1;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	
+}
+#userimg{
+	height: 50px;
+	width: 50px;
+	background-image: url(lg.png);
+	background-size: cover;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+.text{
+	text-align: center;
+	padding-top:1px;
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+.text input{
+	height: 20px;
+	width: 250px;
+	border-radius:3px;
+	border:none;
+	padding: 10px;
+	outline: none;	
+	font-size: 20px;
+
+
+}
+button{
+	
+	margin-top: 20px;
+	border-radius: 3px;
+	outline: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+
+#forget{
+	margin-top: 20px;
+	text-align: center;
+
+}
+#container h1{
+	text-align: center;
+	padding-top:1px;
+}
